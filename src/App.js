@@ -4,7 +4,7 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <h1>TES WEBSITE INABATUL QURAN kota dumai tes EKO</h1>
+      <h1>TES WEBSITE INABATUL QURAN kota dumai tes EKO asdasdasdad</h1>
     </div>
   );
 }
